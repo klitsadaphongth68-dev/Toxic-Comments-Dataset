@@ -16,7 +16,7 @@
 | ลำดับ | สมาชิก | หน้าที่หลัก |
 |---:|---|---|
 | 1 | ณัฐชนน กรุณา 68114540782 | Data Preparation + Data Analysis |
-| 2 | กฤษ 68114540782| Data Visualization + Findings |
+| 2 | กฤษฎาพงษ์ ทิณพัฒน์ 68114540054| Data Visualization + Findings |
 
 ## 3. คำถามการวิจัย (Research Questions)
 
